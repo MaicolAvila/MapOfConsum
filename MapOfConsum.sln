@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapOfConsum", "MapOfConsum\MapOfConsum.csproj", "{6A23D404-0975-4B43-9C03-6B1A8C18B133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A23D404-0975-4B43-9C03-6B1A8C18B133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A23D404-0975-4B43-9C03-6B1A8C18B133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A23D404-0975-4B43-9C03-6B1A8C18B133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A23D404-0975-4B43-9C03-6B1A8C18B133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B3DD4FB-809D-4270-87FB-71251CB0F4F5}
+	EndGlobalSection
+EndGlobal

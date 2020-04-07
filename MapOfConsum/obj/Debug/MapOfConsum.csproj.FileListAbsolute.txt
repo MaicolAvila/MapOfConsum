@@ -1,0 +1,12 @@
+F:\MapOfConsum\MapOfConsum\bin\Debug\MapOfConsum.exe.config
+F:\MapOfConsum\MapOfConsum\bin\Debug\MapOfConsum.exe
+F:\MapOfConsum\MapOfConsum\bin\Debug\MapOfConsum.pdb
+F:\MapOfConsum\MapOfConsum\obj\Debug\MapOfConsum.csprojAssemblyReference.cache
+F:\MapOfConsum\MapOfConsum\obj\Debug\MapOfConsum.Form1.resources
+F:\MapOfConsum\MapOfConsum\obj\Debug\MapOfConsum.Properties.Resources.resources
+F:\MapOfConsum\MapOfConsum\obj\Debug\MapOfConsum.csproj.GenerateResource.cache
+F:\MapOfConsum\MapOfConsum\obj\Debug\MapOfConsum.csproj.CoreCompileInputs.cache
+F:\MapOfConsum\MapOfConsum\obj\Debug\MapOfConsum.exe
+F:\MapOfConsum\MapOfConsum\obj\Debug\MapOfConsum.pdb
+F:\MapOfConsum\MapOfConsum\obj\Debug\MapOfConsum.Calculadora.resources
+F:\MapOfConsum\MapOfConsum\obj\Debug\MapOfConsum.Map.resources
